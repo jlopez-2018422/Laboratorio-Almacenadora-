@@ -1,0 +1,67 @@
+.eliminar {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+
+}
+.list-item {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.list-item p {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.list-item p:first-of-type {
+  font-weight: bold;
+}
+.tarea {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.tarea.completada {
+  background-color: #d4edda;
+}
+
+.completar {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.eliminar {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.editar {
+  background-color: rgb(12, 166, 233);
+  color: white;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-right: 10px;
+}
